@@ -1,2 +1,1 @@
-# Python-Projects
-Magic 8 ball Python Project
+This repoistory if for all of my python projects I work on. 
